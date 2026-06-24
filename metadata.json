@@ -1,0 +1,6 @@
+{
+  "name": "Project Oracle",
+  "description": "Deadline risk radar and opportunity loss calculator for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
